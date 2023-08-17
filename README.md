@@ -1,19 +1,31 @@
 # IrisDataset
-Machine Learning project using KNN algorithm on Iris Dataset
-### Hello, My name is Swathi Anguluri
-#### I am a recently Graduated in Data Science stream
-I am a recently graduate looking for an entry level job in Data Science stream. I have done a pilot project on iris dataset using KNearestNeighbor (KNN) algorithm in Machine Learning. using Python  packages: scikit-learn / model_selection library / Numpy / KNeighborClassifier Algorithm. I have selected Jupyter Notebook for programming interface.
+Machine Learning project using KNN algorithm on Iris Dataset.
 
-Skills:  I have a good programming knowledge on python, java, basics of C, HTML, CSS, SQL. Technologies: Hadoop,Bigdata
+## Overview
 
-- 🔭 I’m currently working on Searching for an entry level job 
-- 🌱 I’m currently learning Data Science 
-- 📫 How to reach me: anguluriswathi319@gmail.com 
+I have done my pilot project on iris dataset using KNearestNeighbor (KNN) algorithm in Machine Learning. At first importing the required libraries as well as iris dataset. Divided the data into two different parts as train and test the data. train the data using KNeighborsClassifier and predicted the output. I have selected Jupyter Notebook for programming interface.
+## Dependencies
+* KNeighborClassifier Algorithm
+* numpy
+* scikit-learn
+
+Install missing dependencies using [pip](https://pip.pypa.io/en/stable/)
+### Libraries
+
+* model_selection library
+* sk learn datasets
+  
+## Dataset
+Install dataset from sk-learn datasets 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Swathi182)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/swathi-anguluri-8b0503251/)  
+## Usage
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Swathi182&show_icons=true)  
+Run the commands using Python Programming language
 
+Install python [here](https://www.python.org/downloads/)
 
+Run the jupyter notebook by typing `jupyter notebook` in terminal
+
+Install jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html)
 
